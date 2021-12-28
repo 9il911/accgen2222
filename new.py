@@ -1,5 +1,5 @@
-key='key'
-app_name="app name"
+key='471d6c42-47a1-4edb-8163-5f768c8a524b'
+app_name="accountsgen9192"
 deviceid=""
 emaill=""
 passwordd=""
